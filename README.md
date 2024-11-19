@@ -1,5 +1,6 @@
 
-# Projeto: Previsão de Churn para Empresa de Telecomunicações
+# Projeto Previsão de Churn para Empresa de Telecomunicações
+
 
 ## Objetivo
 O projeto tem como objetivo prever a evasão de clientes (*churn*) em uma empresa de telecomunicações. A ideia principal é identificar clientes com alto risco de cancelar seus serviços, permitindo que ações estratégicas sejam tomadas para a retenção.
@@ -31,8 +32,6 @@ A solução proposta baseia-se na aplicação de ciência de dados, com etapas e
 4. **Avaliação**:
     - Métricas como ROC-AUC, F1-Score, e matriz de confusão para análise do desempenho.
 
-## Conclusão
-O projeto demonstra como técnicas de ciência de dados podem ser usadas para resolver problemas de negócios, como a previsão de churn. A abordagem é escalável e pode ser adaptada para outras indústrias e casos de uso similares.
 
 ## Pipeline do Projeto
 1. **Importação dos Dados**:
@@ -65,6 +64,9 @@ pip install scikit-plot imbalanced-learn lightgbm xgboost
 1. Clone o repositório e abra o notebook.
 2. Certifique-se de que o dataset está acessível no caminho especificado.
 3. Execute as células sequencialmente para replicar os resultados.
+
+## Conclusão
+O projeto demonstra como técnicas de ciência de dados podem ser usadas para resolver problemas de negócios, como a previsão de churn. A abordagem é escalável e pode ser adaptada para outras indústrias e casos de uso similares.
 
 ## Observações
 O projeto utiliza um pipeline padronizado para projetos de ciência de dados e pode ser ampliado para incluir técnicas adicionais, como explicabilidade de modelos e otimização em produção.
