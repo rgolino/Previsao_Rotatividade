@@ -1,5 +1,7 @@
+[![author](https://img.shields.io/badge/author-rgolino-red.svg)](https://www.linkedin.com/in/renato-golino/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rafaelnduarte/portfolio/issues)
 
-# Projeto Previsão de Churn para Empresa de Telecomunicações
+# Previsão de Rotatividade de Clientes nas Empresa de Telecomunicações
+<img src ="https://img.freepik.com/fotos-gratis/tablet-com-aplicacoes_1134-123.jpg?t=st=1732056112~exp=1732059712~hmac=1a4be5fe493c1882d388357eb5c2c9516ad19230030a626338c1ba5645d808ee&w=1480">
 
 
 ## Objetivo
@@ -68,6 +70,10 @@ pip install scikit-plot imbalanced-learn lightgbm xgboost
 ## Conclusão
 O projeto demonstra como técnicas de ciência de dados podem ser usadas para resolver problemas de negócios, como a previsão de churn. A abordagem é escalável e pode ser adaptada para outras indústrias e casos de uso similares.
 
-## Observações
+**Observações**
 O projeto utiliza um pipeline padronizado para projetos de ciência de dados e pode ser ampliado para incluir técnicas adicionais, como explicabilidade de modelos e otimização em produção.
+
+## Projeto Completo
+
+[Previsão de Rotatividade](https://github.com/rgolino/Previsao_Rotatividade/blob/main/PROJETO_Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb)
 
